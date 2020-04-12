@@ -1,0 +1,20 @@
+version: '3.1'
+
+services:
+  manim:
+    # comment this line if you build the image to prevent overwriting the tag
+    image: eulertour/manim:latest
+    # uncomment this line to build rather than pull the image
+    env_file: .env
+    build: ../.
+    entrypoint:
+      - manim
+      - --media_dir=/tmp/output
+    volumes:
+      # - /Users/jonathanllovet/Documents/Software/Learning/Tools/Animation/manim:/tmp/input
+      - ${INPUT_PATH:?INPUT_PATH environment variable isn't set}:/tmp/input
+      # - ../outputAnimations:/tmp/output
+      - ${OUTPUT_PATH:?OUTPUT_PATH environment variable isn't set}:/tmp/output
+    #   - ../outputAnimations/logs:/tmp/output/Tex
+    working_dir: /tmp/input
+    network_mode: "none"
