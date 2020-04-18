@@ -91,6 +91,20 @@ class ScreenGrid(VGroup):
         if self.show_points==True:
             self.add(puntos)
 
+class GreekText(Scene):
+    def construct(self):
+        greek_text = """Τῶν ὄντων τὰ μέν ἐστιν ἐφ' ἡμῖν, τὰ δὲ οὐκ ἐφ' ἡμῖν."""
+        greek = Text(greek_text, font="Geneva",stroke_width=0, size=0.5)
+        self.play(Write(greek, run_time=5))
+        self.wait()
+
+class GreekTexMobject(Scene):
+    # Does not render properly
+    def construct(self):
+        greek_text = """Τῶν ὄντων τὰ μέν ἐστιν ἐφ' ἡμῖν, τὰ δὲ οὐκ ἐφ' ἡμῖν."""
+        greek = TexMobject(greek_text)
+        self.play(Write(greek, run_time=5))
+        self.wait()
 class Shape(Scene):
 
     def construct(self):
