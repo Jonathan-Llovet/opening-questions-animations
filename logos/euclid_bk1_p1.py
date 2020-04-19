@@ -21,7 +21,7 @@ class Diagram1(Scene, GetIntersections):
         self.play(ShowCreation(self.lineAC))
         self.play(ShowCreation(self.lineBC))
 
-        opening_questions = TextMobject("Opening Questions", size=2).move_to(UP*2.2)
+        opening_questions = TextMobject("Opening Questions", size=2).move_to(UP*1.75)
         self.play(Write(opening_questions, run_time=1.5))
         
         self.wait()
