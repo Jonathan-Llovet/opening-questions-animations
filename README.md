@@ -1,5 +1,5 @@
 # Opening Questions - Manim
-
+![logo](logos/Diagram1-cropped.png)
 ## About
 Code for videos on the [Opening Questions](https://www.youtube.com/channel/UCRQ5gGxixCkYamF5S3sU1hA) Youtube channel.
 
