@@ -1,0 +1,33 @@
+{
+    "header": {
+        "greek": "κοιναὶ ἔννοιαι",
+        "latin": "Communes Animi Conceptiones",
+        "english": "Common Notions"
+    },
+    "common_notions": [
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "πρῶτα",
+                    "latin": "Prima",
+                    "english": "First"
+                    },
+                "symbol": {
+                    "greek": "α΄",
+                    "latin": "I",
+                    "english": "1"
+                }
+            },
+            "text": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        }
+    ]
+}
