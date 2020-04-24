@@ -1,9 +1,8 @@
-header = {
-    "greek": "Αἰτήματα",
-    "latin": "Postulata",
-    "english": "Postulates"
-}
+import json
 
-postulates = [
-    {},
-]
+postulates_path = './postulates.json'
+
+with open(postulates_path, 'r') as f:
+    postulates = json.load(f)
+
+print(postulates['postulates'][0]['text']['greek'])
