@@ -8,6 +8,7 @@ class BigOLogo(Scene):
         bigO.set_color_by_tex("Q", WHITE)
         bigO.set_color_by_tex("(", RED_E)
         bigO.set_color_by_tex(")", RED_E)
+        # logo = VGroup(bigO, opening_questions).move_to(np.array([0, 0, 0])).scale_in_place(.66) # size for Youtube banner
         logo = VGroup(bigO, opening_questions).move_to(np.array([0, 0, 0])).scale_in_place(1.45)
         self.play(ShowCreation(bigO), run_time=2)
         self.play(ShowCreation(opening_questions), run_time=2)
