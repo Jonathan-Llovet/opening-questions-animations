@@ -39,11 +39,3 @@ class EuclidIntro(Scene):
         self.play(ReplacementTransform(euclid_greek, euclid_english), run_time=2)
         self.wait()
 
-    def construct_math_diagram(self):
-        pass
-
-    def construct_programming_diagram(self):
-        pass
-
-    def construct_philosophy_diagram(self):
-        pass
