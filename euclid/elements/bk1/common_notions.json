@@ -19,9 +19,105 @@
                 }
             },
             "text": {
+                "greek": "τὰ τῷ αὐτῷ ἴσα καὶ ἀλλήλοις ἐστὶν ἴσα.",
+                "latin": "Quae eidem aequalia sunt, etiam inter se aequalia sunt.",
+                "english": "Things which are equal to the same things are also equal to one another."
+            },
+            "commentary": {
                 "greek": "",
                 "latin": "",
                 "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δευτέρα",
+                    "latin": "Secunda",
+                    "english": "Second"
+                    },
+                "symbol": {
+                    "greek": "β΄",
+                    "latin": "II",
+                    "english": "2"
+                }
+            },
+            "text": {
+                "greek": "καὶ ἐὰν ἴσοις ἴσα προστεθῇ, τὰ ὅλα ἐστὶν ἴσα",
+                "latin": "Et, si aequalibus aequalia adduntur, tota aequalia sunt.",
+                "english": "If equals be added to equals, the wholes are equal."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "τρίτη",
+                    "latin": "Tertia",
+                    "english": "Third"
+                    },
+                "symbol": {
+                    "greek": "γ΄",
+                    "latin": "III",
+                    "english": "3"
+                }
+            },
+            "text": {
+                "greek": "καὶ ἐὰν ἀπὸ ἴσων ἴσα ἀφαιρεθῇ, τὰ καταλειπόμενά ἐστιν ἴσα.",
+                "latin": "Et, si ab aequalibus aequalia subtrahuntur, reliqua sunt aequalia.",
+                "english": "If equals be subtracted from equals, the remainders are equal."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "τέταρτη",
+                    "latin": "Quarta",
+                    "english": "Fourth"
+                    },
+                "symbol": {
+                    "greek": "δ΄",
+                    "latin": "IV",
+                    "english": "4"
+                }
+            },
+            "text": {
+                "greek": "Καὶ τὰ ἐφαρμόζοντα ἐπ' ἄλληλα ἴσα ἀλλήλοις ἐστίν.",
+                "latin": "Et quae inter se congruunt, aequalia sunt.",
+                "english": "Things which coincide with one another are equal to one another."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "πέμπτη",
+                    "latin": "Quinta",
+                    "english": "Fifth"
+                    },
+                "symbol": {
+                    "greek": "ε΄",
+                    "latin": "V",
+                    "english": "5"
+                }
+            },
+            "text": {
+                "greek": "Καὶ τὸ ὅλον τοῦ μέρους μεῖζον ἐστιν.",
+                "latin": "Et totum parte maius est.",
+                "english": "The whole is greater than the part."
             },
             "commentary": {
                 "greek": "",
