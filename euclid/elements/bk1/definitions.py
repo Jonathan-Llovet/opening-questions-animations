@@ -1,21 +1,8 @@
-header = {
-    "greek": "Ὅροι",
-    "latin": "Definitiones",
-    "english": "Definitions"
-}
+import json
 
-definitions = [
-    {
-        "text": {
-            "greek": "σημεῖόν ἐστιν, οὗ μέρος οὐθέν.",
-            "latin": "Punctum est, cuius pars nulla est.",
-            "english": "A point is that which has no part"
-        },
-        "commentary": {
-            "greek": "",
-            "latin": "",
-            "english": ""
-        }
-    },
-    {}
-    ]
+definitions_path = './definitions.json'
+
+with open(definitions_path, 'r') as f:
+    definitions = json.load(f)
+
+# print(definitions['definitions'][2]['text']['greek'])

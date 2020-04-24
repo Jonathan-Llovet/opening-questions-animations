@@ -1,0 +1,561 @@
+{
+    "header": {
+        "greek": "Ὅροι",
+        "latin": "Definitiones",
+        "english": "Definitions"
+    },
+    "definitions": [
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "πρῶτος",
+                    "latin": "Prima",
+                    "english": "First"
+                    },
+                "symbol": {
+                    "greek": "α΄",
+                    "latin": "I",
+                    "english": "1"
+                }
+            },
+            "text": {
+                "greek": "σημεῖόν ἐστιν, οὗ μέρος οὐθέν.",
+                "latin": "Punctum est, cuius pars nulla est.",
+                "english": "A point is that which has no part."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δεύτερος",
+                    "latin": "Secunda",
+                    "english": "Second"
+                    },
+                "symbol": {
+                    "greek": "β΄",
+                    "latin": "II",
+                    "english": "2"
+                }
+            },
+            "text": {
+                "greek": "γραμμὴ δὲ μῆκος ἀπλατές.",
+                "latin": "Linea autem sine latitudine longitudo.",
+                "english": "A line is breadthless length."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "τρίτος",
+                    "latin": "Tertia",
+                    "english": "Third"
+                    },
+                "symbol": {
+                    "greek": "γ΄",
+                    "latin": "III",
+                    "english": "3"
+                }
+            },
+            "text": {
+                "greek": "γραμμῆς δὲ πέρατα σημεῖα.",
+                "latin": "Lineae autem extrema puncta.",
+                "english": "The extremities of a line are points."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "τέταρτος",
+                    "latin": "Quarta",
+                    "english": "Fourth"
+                    },
+                "symbol": {
+                    "greek": "δ΄",
+                    "latin": "IV",
+                    "english": "4"
+                }
+            },
+            "text": {
+                "greek": "εὐθεῖα γραμμή ἐστιν, ἥτις ἐξ ἴσου τοῖς ἐφ' ἑαυτῆς σημείοις κεῖται.",
+                "latin": "Recta linea est, quaecunque ex aequo punctis in ea sitis iacet.",
+                "english": "A straight line is a line which lies evenly with the points on itself."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "πέμπτος",
+                    "latin": "Quinta",
+                    "english": "Fifth"
+                    },
+                "symbol": {
+                    "greek": "ε΄",
+                    "latin": "V",
+                    "english": "5"
+                }
+            },
+            "text": {
+                "greek": "ἐπιφάνεια δέ ἐστιν, ὃ μῆκος καὶ πλάτος μόνον ἔχει.",
+                "latin": "Superficiem autem est, quod longitudinem et latitudinem solum habet.",
+                "english": "A surface is that which has length and breadth only."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "ἕκτος",
+                    "latin": "Sexta",
+                    "english": "Sixth"
+                    },
+                "symbol": {
+                    "greek": "ς΄",
+                    "latin": "VI",
+                    "english": "6"
+                }
+            },
+            "text": {
+                "greek": "ἐπιφανείας δὲ πέρατα γραμμαί.",
+                "latin": "Superficiei autem extrema lineae sunt.",
+                "english": "The extremities of a surface are lines."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "ἕβδομος",
+                    "latin": "Septima",
+                    "english": "Seventh"
+                    },
+                "symbol": {
+                    "greek": "ζ΄",
+                    "latin": "VII",
+                    "english": "7"
+                }
+            },
+            "text": {
+                "greek": "ἐπίπεδος ἐπιφάνειά ἐστιν, ἥτις ἐξ ἴσου ταῖς ἐφ' ἑαυτῆς εὐθείαις κεῖται.",
+                "latin": "Plana superficies est, quaecunque ex aequo rectis in ea sitis iacet.",
+                "english": "A plane surface is a surface which lies evenly with the straight lines on itself."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "ὄγδοος",
+                    "latin": "Octava",
+                    "english": "Eighth"
+                    },
+                "symbol": {
+                    "greek": "η΄",
+                    "latin": "VIII",
+                    "english": "8"
+                }
+            },
+            "text": {
+                "greek": "ἐπίπεδος δὲ γωνία ἐστὶν ἡ ἐν ἐπιπέδῳ δύο γραμμῶν ἁπτομένων ἀλλήλων καὶ μὴ ἐπ' εὐθείας κειμένων πρὸς ἀλλήλας τῶν γραμμῶν κλίσις.",
+                "latin": "Planus autem angulus est duabus lineis in plano se tangentibus nec in eadem recta positis alterius lineae ad alteram inclinatio.",
+                "english": "A plane angle is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "ἐνατος",
+                    "latin": "Nona",
+                    "english": "Ninth"
+                    },
+                "symbol": {
+                    "greek": "θ΄",
+                    "latin": "IX",
+                    "english": "9"
+                }
+            },
+            "text": {
+                "greek": "ὅταν δὲ αἱ περιέχουσαι τὴν γωνίαν γραμμαὶ εὐθεῖαι ὦσιν, εὐθύγραμμος καλεῖται ἡ γωνία.",
+                "latin": "Ubi vero lineae angulum continentes rectae sunt, rectilineus adpellatur angulus.",
+                "english": "And when the lines containing the angle are straight, the angle is called rectilineal."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος",
+                    "latin": "Decima",
+                    "english": "Tenth"
+                    },
+                "symbol": {
+                    "greek": "ι΄",
+                    "latin": "X",
+                    "english": "10"
+                }
+            },
+            "text": {
+                "greek": "ὅταν δὲ εὐθεῖα ἐπ' εὐθεῖαν σταθεῖσα τὰς ἐφεξῆς γωνίας ἴσας ἀλλήλαις ποιῇ, ὀρθὴ ἑκατέρα τῶν ἴσων γωνιῶν ἐστι, καὶ ἡ ἐφεστηκυῖα εὐθεῖα κάθετος καλεῖται, ἐφ' ἣν ἐφέστηκεν.",
+                "latin": "Ubi vero recta super rectam lineam erecta angulos deinceps positos inter se aequales efficit, rectus est uterque angulus aequalis, et recta linea erecta perpendicularis adpellatur ad eam, super quam erecta est.",
+                "english": "When a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "ἑνδέκατος",
+                    "latin": "Undecima",
+                    "english": "Eleventh"
+                    },
+                "symbol": {
+                    "greek": "ια΄",
+                    "latin": "XI",
+                    "english": "11"
+                }
+            },
+            "text": {
+                "greek": "ἀμβλεῖα γωνία ἐστὶν ἡ μείζων ὀρθῆς.",
+                "latin": "Obtusus angulus est, qui maior est recto.",
+                "english": "An obtuse angle is an angle greater than a right angle."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δωδέκατος",
+                    "latin": "Duodecima",
+                    "english": "Twelfth"
+                    },
+                "symbol": {
+                    "greek": "ιβ΄",
+                    "latin": "XII",
+                    "english": "12"
+                }
+            },
+            "text": {
+                "greek": "ὀξεῖα δὲ ἡ ἐλάσσων ὀρθῆς.",
+                "latin": "Acutus vero, qui minor est recto.",
+                "english": "An acute angle is an angle less than a right angle."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος τρίτος",
+                    "latin": "Tertia Decima",
+                    "english": "Thirteenth"
+                    },
+                "symbol": {
+                    "greek": "ιγ΄",
+                    "latin": "XIII",
+                    "english": "13"
+                }
+            },
+            "text": {
+                "greek": "ὅρος ἐστίν, ὅ τινός ἐστι πέρας.",
+                "latin": "Terminus est, quod alicuius rei extremum est.",
+                "english": "A boundary is that which is an extremity of anything."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος τέταρτος",
+                    "latin": "Quarta Decima",
+                    "english": "Fourteenth"
+                    },
+                "symbol": {
+                    "greek": "ιδ΄",
+                    "latin": "XIV",
+                    "english": "14"
+                }
+            },
+            "text": {
+                "greek": "σχῆμά ἐστι τὸ ὑπό τινος ἤ τινων ὅρων περιεχόμενον.",
+                "latin": "Figura est, quod aliquo vel aliquibus terminis comprehenditur.",
+                "english": "A figure is that which is contained by any boundary or boundaries."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος πέμπτος",
+                    "latin": "Quinta Decima",
+                    "english": "Fifteenth"
+                    },
+                "symbol": {
+                    "greek": "ιε΄",
+                    "latin": "XV",
+                    "english": "15"
+                }
+            },
+            "text": {
+                "greek": "κύκλος ἐστὶ σχῆμα ἐπίπεδον ὑπὸ μιᾶς γραμμῆς περιεχόμενον [ἣ καλεῖται περιφέρεια], πρὸς ἣν ἀφ' ἑνὸς σημείου τῶν ἐντὸς τοῦ σχήματος κειμένων πᾶσαι αἱ προσπίπτουσαι εὐθεῖαι [πρὸς τὴν τοῦ κύκλου περιφέρειαν] ἴσαι ἀλλήλαις εἰσίν.",
+                "latin": "Circulus est figura plana una linea comprehensa, ad quam quae ab uno puncto intra figuram posito educuntur rectae omnes aequales sunt.",
+                "english": "A circle is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure are equal to one another."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος ἕκτος",
+                    "latin": "Sexta Decima",
+                    "english": "Sixteenth"
+                    },
+                "symbol": {
+                    "greek": "ις΄",
+                    "latin": "XVI",
+                    "english": "16"
+                }
+            },
+            "text": {
+                "greek": "κέντρον δὲ τοῦ κύκλου τὸ σημεῖον καλεῖται.",
+                "latin": "Centrum autem circuli punctum illud adpellatur.",
+                "english": "And the point is called the centre of the circle."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος ἕβδομος",
+                    "latin": "Septima Decima",
+                    "english": "Seventeenth"
+                    },
+                "symbol": {
+                    "greek": "ιζ΄",
+                    "latin": "XVII",
+                    "english": "17"
+                }
+            },
+            "text": {
+                "greek": "διάμετρος δὲ τοῦ κύκλου ἐστὶν εὐθεῖά τις διὰ τοῦ κέντρου ἠγμένη καὶ περατουμένη ἐφ' ἑκάτερα τὰ μέρη ὑπὸ τῆς τοῦ κύκλου περιφερείας, ἥτις καὶ δίχα τέμνει τὸν κύκλον.",
+                "latin": "Diametrus autem circuli recta quaedam est linea per centrum ducta et terminata utrimque ambitu circuli, quae quidem linea circulum in duas partes aequales dividit.",
+                "english": "A diameter of the circle is any straight line drawn through the center and terminated in both directions by the circumference of the circle, and such a straight line also bisects the circle."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος ὄγδοος",
+                    "latin": "Duodevicensima",
+                    "english": "Eighteenth"
+                    },
+                "symbol": {
+                    "greek": "ιη΄",
+                    "latin": "XVIII",
+                    "english": "18"
+                }
+            },
+            "text": {
+                "greek": "ἡμικύκλιον δέ ἐστι τὸ περιεχόμενον σχῆμα ὑπό τε τῆς διαμέτρου καὶ τῆς ἀπολαμβανομένης ὑπ' αὐτῆς περιφερείας. κέντρον δὲ τοῦ ἡμικυκλίου τὸ αὐτό, ὃ καὶ τοῦ κύκλου ἐστίν.",
+                "latin": "Semicirculus autem ea est figura, quae diametro et arcu ab ea absciso comprehenditur. Centro vero semicirculi idem est, quod ipsius est circuli.",
+                "english": "A semicircle is the figure contained by the diameter and the circumference cut off by it. And the center of the semicircle is the same as that of the circle."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "δέκατος ἔνατος",
+                    "latin": "Undevicensima",
+                    "english": "Nineteenth"
+                    },
+                "symbol": {
+                    "greek": "ιθ΄",
+                    "latin": "XIX",
+                    "english": "19"
+                }
+            },
+            "text": {
+                "greek": "σχήματα εὐθύγραμμά ἐστι τὰ ὑπὸ εὐθειῶν περιεχόμενα, τρίπλευρα μὲν τὰ ὑπὸ τριῶν, τετράπλευρα δὲ τὰ ὑπὸ τεσσάρων, πολύπλευρα δὲ τὰ ὑπὸ πλειόνων ἢ τεσσάρων εὐθειῶν περιεχόμενα.",
+                "latin": "Figurae rectilineae sunt, quae rectis lineis comprehenduntur, trilaterae quae tribus, quadrilaterae quae quattuor, multilaterae quae plus quam quattor rectis comprehenduntur.",
+                "english": "Rectilineal figures are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "εἰκοστός",
+                    "latin": "Vicensima",
+                    "english": "Twentieth"
+                    },
+                "symbol": {
+                    "greek": "κ΄",
+                    "latin": "XX",
+                    "english": "20"
+                }
+            },
+            "text": {
+                "greek": "τῶν δὲ τριπλεύρων σχημάτων ἰσόπλευρον μὲν τρίγωνόν ἐστι τὸ τὰς τρεῖς ἴσας ἔχον πλευράς, ἰσοσκελὲς δὲ τὸ τὰς δύο μόνας ἴσας ἔχον πλευράς, σκαληνὸν δὲ τὸ τὰς τρεῖς ἀνίσους ἔχον πλευράς.",
+                "latin": "Ex figuris autem trilateris aequilaterus triangulus est, qui tria latera sua aequalia habet, aequicrurius vero, qui duo sola aequalia habet, scalenus autem, qui tria latera sua inaequalia habet.",
+                "english": "Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "εἰκοστὸς πρῶτος",
+                    "latin": "Vicensima Prima",
+                    "english": "Twenty First"
+                    },
+                "symbol": {
+                    "greek": "κα΄",
+                    "latin": "XXI",
+                    "english": "21"
+                }
+            },
+            "text": {
+                "greek": "ἔτι δὲ τῶν τριπλεύρων σχημάτων ὀρθογώνιον μὲν τρίγωνόν ἐστι τὸ ἔχον ὀρθὴν γωνίαν, ἀμβλυγώνιον δὲ τὸ ἔχον ἀμβλεῖαν γωνίαν, ὀξυγώνιον δὲ τὸ τὰς τρεῖς ὀξείας ἔχον γωνίας.",
+                "latin": "Praeterea vero ex figuris trilateris rectangulus triangulus est, qui rectum angulum habet, obtusiangulus, qui obtusum habet, acutiangulus autem, qui tres angulos suos acutos habet.",
+                "english": "Further, of trilateral figures, a right-angled triangle is that which has a right angle, an obtuse-angled triangle that which has an obtuse angle, and an acute-angled triangle that which has its three angles acute."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "εἰκοστὸς δεύτερος",
+                    "latin": "Vicensima Secunda",
+                    "english": "Twenty Second"
+                    },
+                "symbol": {
+                    "greek": "κβ΄",
+                    "latin": "XXII",
+                    "english": "22"
+                }
+            },
+            "text": {
+                "greek": "τῶν δὲ τετραπλεύρων σχημάτων τετράγωνον μέν ἐστιν, ὃ ἰσόπλευρόν τέ ἐστι καὶ ὀρθογώνιον, ἑτερόμηκες δέ, ὃ ὀρθογώνιον μέν, οὐκ ἰσόπλευρον δέ, ῥόμβος δέ, ὃ ἰσόπλευρον μέν, οὐκ ὀρθογώνιον δέ, ῥομβοειδὲς δὲ τὸ τὰς ἀπεναντίον πλευράς τε καὶ γωνίας ἴσας ἀλλήλαις ἔχον, ὃ οὔτε ἰσόπλευρόν ἐστιν οὔτε ὀρθογώνιον: τὰ δὲ παρὰ ταῦτα τετράπλευρα τραπέζια καλείσθω.",
+                "latin": "Ex quadrilateris autem figuris quadratum est, quod simul aequilaterum est et rectangulum, parte altera longius est, quod rectangulum est neque uero aequilaterum, rhombus autem, quod aequilaterum est neque vero rectangulum, rhomboides autem, quod latera simul et angulos inter se opposita aequalia habet, sed neque aequilaterum est neque rectangulum; reliqua autem praeter haec quadrilatera trapezia adpellentur.",
+                "english": "Of quadrilateral figures, a square is that which is both equilateral and right-angled; an oblong that which is right-angled but not equilateral; a rhombus that which is equilateral but not right-angled; and a rhomboid that which has its opposite sides and angles equal to one another but is neither equilateral nor right-angled. And let quadrilaterals other than these be called trapezia."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        },
+        {
+            "number": {
+                "ordinal": {
+                    "greek": "εἰκοστὸς τρίτος",
+                    "latin": "Vicensima Tertia",
+                    "english": "Twenty Third"
+                    },
+                "symbol": {
+                    "greek": "κγ΄",
+                    "latin": "XXIII",
+                    "english": "23"
+                }
+            },
+            "text": {
+                "greek": "παράλληλοί εἰσιν εὐθεῖαι, αἵτινες ἐν τῷ αὐτῷ ἐπιπέδῳ οὖσαι καὶ ἐκβαλλόμεναι εἰς ἄπειρον ἐφ' ἑκάτερα τὰ μέρη ἐπὶ μηδέτερα συμπίπτουσιν ἀλλήλαις.",
+                "latin": "Parallelae sunt lineae, quae in eodem plano positae et in utramque partem productae in infinitum in neutra parte concurrunt.",
+                "english": "Parallel straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions do not meet one another in either direction."
+            },
+            "commentary": {
+                "greek": "",
+                "latin": "",
+                "english": ""
+            }
+        }
+    ]
+}
