@@ -15,4 +15,4 @@ The animations are made with the manim math animation engine, which was original
 Please see [Jonathan-Llovet/opening-questions-manim](https://github.com/Jonathan-Llovet/opening-questions-manim) for details on usage, extensions from the manim community that I have used in my scenes, recommendations for learning manim, and links to other manim-related projects.
 
 ## License
-Copyright (c) Jonathan Llovet [linkedin.com/in/jonathanllovet/](linkedin.com/in/jonathanllovet/)
+Copyright (c) Jonathan Llovet [linkedin.com/in/jonathanllovet/](https://www.linkedin.com/in/jonathanllovet/)
