@@ -12,3 +12,5 @@ class BigOLogo(Scene):
         self.play(ShowCreation(bigO), run_time=2)
         self.play(ShowCreation(opening_questions), run_time=2)
         self.wait()
+        self.play(FadeOut(logo))
+        self.wait()
