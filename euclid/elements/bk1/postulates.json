@@ -1,128 +1,128 @@
 {
     "header": {
-        "greek": "Αἰτήματα",
-        "latin": "Postulata",
-        "english": "Postulates"
+        "grc": "Αἰτήματα",
+        "lat": "Postulata",
+        "eng": "Postulates"
     },
     "postulates": [
         {
             "number": {
                 "ordinal": {
-                    "greek": "πρῶτον",
-                    "latin": "Primum",
-                    "english": "First"
+                    "grc": "πρῶτον",
+                    "lat": "Primum",
+                    "eng": "First"
                     },
                 "symbol": {
-                    "greek": "α΄",
-                    "latin": "I",
-                    "english": "1"
+                    "grc": "α΄",
+                    "lat": "I",
+                    "eng": "1"
                 }
             },
             "text": {
-                "greek": "Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.",
-                "latin": "Postuletur, ut a quovis puncto ad quodvis punctum recta linea ducatur.",
-                "english": "To draw a straight line from any point to any point."
+                "grc": "Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν σημεῖον εὐθεῖαν γραμμὴν ἀγαγεῖν.",
+                "lat": "Postuletur, ut a quovis puncto ad quodvis punctum recta linea ducatur.",
+                "eng": "To draw a straight line from any point to any point."
             },
             "commentary": {
-                "greek": "",
-                "latin": "",
-                "english": ""
+                "grc": "",
+                "lat": "",
+                "eng": ""
             }
         },
         {
             "number": {
                 "ordinal": {
-                    "greek": "δεύτερον",
-                    "latin": "Secundum",
-                    "english": "Second"
+                    "grc": "δεύτερον",
+                    "lat": "Secundum",
+                    "eng": "Second"
                     },
                 "symbol": {
-                    "greek": "β΄",
-                    "latin": "II",
-                    "english": "2"
+                    "grc": "β΄",
+                    "lat": "II",
+                    "eng": "2"
                 }
             },
             "text": {
-                "greek": "Καὶ πεπερασμένην εὐθεῖαν κατὰ τὸ συνεχὲς ἐπ' εὐθείας ἐκβαλεῖν.",
-                "latin": "Et ut recta linea terminata in directum educatur in continuum.",
-                "english": "To produce a finite straight line continuously in a straight line."
+                "grc": "Καὶ πεπερασμένην εὐθεῖαν κατὰ τὸ συνεχὲς ἐπ' εὐθείας ἐκβαλεῖν.",
+                "lat": "Et ut recta linea terminata in directum educatur in continuum.",
+                "eng": "To produce a finite straight line continuously in a straight line."
             },
             "commentary": {
-                "greek": "",
-                "latin": "",
-                "english": ""
+                "grc": "",
+                "lat": "",
+                "eng": ""
             }
         },
         {
             "number": {
                 "ordinal": {
-                    "greek": "τρίτον",
-                    "latin": "Tertium",
-                    "english": "Third"
+                    "grc": "τρίτον",
+                    "lat": "Tertium",
+                    "eng": "Third"
                     },
                 "symbol": {
-                    "greek": "γ΄",
-                    "latin": "III",
-                    "english": "3"
+                    "grc": "γ΄",
+                    "lat": "III",
+                    "eng": "3"
                 }
             },
             "text": {
-                "greek": "Καὶ παντὶ κέντρῳ καὶ διαστήματι κύκλον γράφεσθαι.",
-                "latin": "Et ut quovis centro radioque circulus describatur.",
-                "english": "To describe a circle with any centre and distance."
+                "grc": "Καὶ παντὶ κέντρῳ καὶ διαστήματι κύκλον γράφεσθαι.",
+                "lat": "Et ut quovis centro radioque circulus describatur.",
+                "eng": "To describe a circle with any centre and distance."
             },
             "commentary": {
-                "greek": "",
-                "latin": "",
-                "english": ""
+                "grc": "",
+                "lat": "",
+                "eng": ""
             }
         },
         {
             "number": {
                 "ordinal": {
-                    "greek": "τέταρτον",
-                    "latin": "Quartum",
-                    "english": "Fourth"
+                    "grc": "τέταρτον",
+                    "lat": "Quartum",
+                    "eng": "Fourth"
                     },
                 "symbol": {
-                    "greek": "δ΄",
-                    "latin": "IV",
-                    "english": "4"
+                    "grc": "δ΄",
+                    "lat": "IV",
+                    "eng": "4"
                 }
             },
             "text": {
-                "greek": "Καὶ πάσας τὰς ὀρθὰς γωνίας ἴσας ἀλλήλαις εἶναι.",
-                "latin": "Et omnes rectos angulos inter se aequales esse.",
-                "english": "That all right angles are equal to one another."
+                "grc": "Καὶ πάσας τὰς ὀρθὰς γωνίας ἴσας ἀλλήλαις εἶναι.",
+                "lat": "Et omnes rectos angulos inter se aequales esse.",
+                "eng": "That all right angles are equal to one another."
             },
             "commentary": {
-                "greek": "",
-                "latin": "",
-                "english": ""
+                "grc": "",
+                "lat": "",
+                "eng": ""
             }
         },
         {
             "number": {
                 "ordinal": {
-                    "greek": "πέμπτον",
-                    "latin": "Quintum",
-                    "english": "Fifth"
+                    "grc": "πέμπτον",
+                    "lat": "Quintum",
+                    "eng": "Fifth"
                     },
                 "symbol": {
-                    "greek": "ε΄",
-                    "latin": "V",
-                    "english": "5"
+                    "grc": "ε΄",
+                    "lat": "V",
+                    "eng": "5"
                 }
             },
             "text": {
-                "greek": "Καὶ ἐὰν εἰς δύο εὐθείας εὐθεῖα ἐμπίπτουσα τὰς ἐντὸς καὶ ἐπὶ τὰ αὐτὰ μέρη γωνίας δύο ὀρθῶν ἐλάσσονας ποιῇ, ἐκβαλλομένας τὰς δύο εὐθείας ἐπ' ἄπειρον συμπίπτειν, ἐφ' ἃ μέρη εἰσὶν αἱ τῶν δύο ὀρθῶν ἐλάσσονες.",
-                "latin": "Et, si in duas lineas rectas recta incidens angulos interiores et ad eandem partem duobus rectis minores effecerit, rectas illas in infinitum productas concurrere ad eandem partem, in qua sint anguli duobus rectis minores.",
-                "english": "That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles."
+                "grc": "Καὶ ἐὰν εἰς δύο εὐθείας εὐθεῖα ἐμπίπτουσα τὰς ἐντὸς καὶ ἐπὶ τὰ αὐτὰ μέρη γωνίας δύο ὀρθῶν ἐλάσσονας ποιῇ, ἐκβαλλομένας τὰς δύο εὐθείας ἐπ' ἄπειρον συμπίπτειν, ἐφ' ἃ μέρη εἰσὶν αἱ τῶν δύο ὀρθῶν ἐλάσσονες.",
+                "lat": "Et, si in duas lineas rectas recta incidens angulos interiores et ad eandem partem duobus rectis minores effecerit, rectas illas in infinitum productas concurrere ad eandem partem, in qua sint anguli duobus rectis minores.",
+                "eng": "That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles."
             },
             "commentary": {
-                "greek": "",
-                "latin": "",
-                "english": ""
+                "grc": "",
+                "lat": "",
+                "eng": ""
             }
         }
     ]
